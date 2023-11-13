@@ -1,5 +1,5 @@
 # Echo_show_sideloading
-To sideload Applications you need to enter the Recoverrymode:
+To sideload Applications you need to enter the Recovery mode:
 1. Unplug your Alexa
 2. Then press volume up and mute button.
 3. Plug your Device in while holding this buttons.
